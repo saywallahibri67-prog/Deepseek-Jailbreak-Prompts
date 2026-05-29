@@ -1,0 +1,3 @@
+Before i start, i wanna thank **@_seraph_ine** on Tiktok for providing these deepseek prompts (formerly know as **_Seraph|天使_**)
+
+  These prompts are used to trick deepseek into thinking it is in a scenario, such as plane crash, use it carefully...
